@@ -1,0 +1,1 @@
+print(int(input("mass: "))*300000000**2)
